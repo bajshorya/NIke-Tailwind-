@@ -1,5 +1,5 @@
-import { services } from "../constants";
-import { ServiceCard } from "../components";
+import { services } from "../constants/index.js";
+import ServiceCard from "../components/ServiceCard"; // Import ServiceCard before using it
 
 const Services = () => {
   return (

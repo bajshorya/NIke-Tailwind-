@@ -14,4 +14,4 @@ const ServiceCard = ({ imgURL, label, subtext }) => {
   );
 };
 
-export default ServiceCard;
+export default ServiceCard; // Export ServiceCard only once
